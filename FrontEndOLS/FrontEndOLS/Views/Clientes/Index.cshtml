@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Clientes</h1>
+
+
+
+<div class="row">
+
+
+	<table class="table table-bordered table-striped" id="tblCliente">
+		<thead>
+			<tr>
+				<th>Documento</th>
+				<th>Nombres</th>
+				<th>Apellidos</th>
+				<th>Telefono</th>
+				<th>Direccion</th>
+				<th>Accion</th>
+			</tr>
+
+		</thead>
+		<tbody>
+			@foreach (var item in (List<Clientes>)ViewBag.Clientes)
+			{
+			<tr>
+				<td>@item.cedula </td>
+				<td>@item.nombres </td>
+				<td>@item.apellidos </td>
+				<td>@item.telefono </td>
+				<td>@item.direcion </td>
+				<td><a href="@Url.Action("Index","Clientes")" class="btn btn-outline-dark">Ver</a></td>
+
+
+
+
+			</tr>
+
+
+			}
+
+
+
+		</tbody>
+
+	</table>
+
+</div>
+

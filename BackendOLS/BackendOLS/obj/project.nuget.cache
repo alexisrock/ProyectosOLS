@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPRGvvyIdgja1oSO1G719lYqZBBjdKHhbH3P5c3Sr4VdqtkrwQs2xs5FZGP3tRkmYOZcq7cGm7VAMfFSg7m0Lw==",
+  "dgSpecHash": "flgMoLFaNYhkn0LxSXkZaAiHxjk4TVcpOy7Jnz3NlvDKvh+O02GavRBxeICJ4K3+ozQXqoZOlKKkI+dSnh4Ecg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO TINY\\source\\repos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\GlobalProyectos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO TINY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO TINY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

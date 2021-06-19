@@ -5990,11 +5990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO TINY\\source\\repos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\GlobalProyectos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
       "projectName": "BackendOLS",
-      "projectPath": "C:\\Users\\LENOVO TINY\\source\\repos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
+      "projectPath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\GlobalProyectos\\BackendOLS\\BackendOLS\\BackendOLS.csproj",
       "packagesPath": "C:\\Users\\LENOVO TINY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO TINY\\source\\repos\\BackendOLS\\BackendOLS\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\GlobalProyectos\\BackendOLS\\BackendOLS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO TINY\\AppData\\Roaming\\NuGet\\NuGet.Config",

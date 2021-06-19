@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   
+
+	<div class="row">
+		<div class="col-4">
+			<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+				<div class="card-body">
+					<h5 class="card-title">Cliente del sistema</h5>
+					<p class="card-text">CRUD para clientes del sistema.</p>
+					<a href="@Url.Action("Index","Clientes")" class="btn btn-outline-dark">Ver</a>
+					</div>
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="card text-dark bg-info mb-3" style="max-width: 18rem;">
+				<div class="card-body">
+					<h5 class="card-title">Proyectos del sistema</h5>
+					<p class="card-text">CRUD para proyectos del sistema.</p>
+					<a href="@Url.Action("Index","Proyectos")" class="btn btn-outline-dark">Ver</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-4">
+			<div class="card text-dark bg-light mb-3" style="max-width: 18rem;">				
+				<div class="card-body">
+					<h5 class="card-title"> Generar Reporte</h5>
+					<p class="card-text">Generar Reporte.</p>
+					<button class="btn btn-outline-dark">Ver</button>
+				</div>
+			</div>
+
+		</div>
+		</div>
+
+
+	</div>
